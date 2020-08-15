@@ -1,0 +1,44 @@
+/* Navigation Bar Section */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+
+}
+
+.inlineblock ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Hero Image Section */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+/* Footer Section */
+footer {
+    background-color: white;
+    text-align: center;
+    
+   
+    
+}
+
+.socialMedia li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+}
